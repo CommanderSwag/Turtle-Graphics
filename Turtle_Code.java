@@ -1,4 +1,5 @@
 //TURTLE GRAPHICS - COMPUTER PROGRAMMING SPRING 2013 FINAL PROJECT
+
 import java.util.Scanner;
 
 public class TurtleGraphics {
@@ -14,8 +15,6 @@ public TurtleGraphics(){
 			grid[i][j]='.';
 		}		
 		grid[25][50]='#';
-		
-		
 	}
 }
 
